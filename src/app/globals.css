@@ -1,0 +1,9 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.first-word-different::first-word {
+    /* Your custom styles for the first word */
+    /* For example, changing color */
+    color: #ff9900; /* Adjust color as needed */
+}
